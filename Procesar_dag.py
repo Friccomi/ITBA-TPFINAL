@@ -130,7 +130,7 @@ def _save_in_DB(path, **context):
 default_args = {
     "owner": "flor",
     "retries": 0,
-    "start_date": datetime(2011, 1, 1),
+    "start_date": datetime(2009, 1, 1),
     "end_date": datetime(year=2018, month=1, day=1),
 }
 
